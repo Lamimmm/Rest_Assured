@@ -1,0 +1,9 @@
+{
+  "success": "A Spartan is Born!",
+  "data": {
+    "id": 0,
+    "name": "John Doe",
+    "gender": "Male",
+    "phone": 8877445596
+  }
+}
